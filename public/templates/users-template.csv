@@ -1,0 +1,3 @@
+사용자ID,아이디,이름,비밀번호,권한(User/Admin),공정/부서
+admin-1,admin,시스템 관리자,admin1234,Admin,총무팀
+user-1,jdoe,John Doe,password1,User,생산1공정
