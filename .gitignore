@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.playwright/
+.vite/
+coverage/
+.DS_Store
+*.tsbuildinfo
+playwright.config.js
+playwright.config.d.ts
+vite.config.js
+vite.config.d.ts
